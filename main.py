@@ -83,7 +83,7 @@ def tictactoe():
             break
 
         while True:
-            print("player 1 turn")
+            print("Player 1 turn")
 
             opt = input(">>")
             try:
